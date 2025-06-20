@@ -27,7 +27,8 @@ All this is done **without** the help of standard libraries. Only syscalls like 
 
 ## 🧪 Sample Run
 
-```bash run.sh
+```bash 
+bash run.sh
 1-son:
 > 12
 2-son:
